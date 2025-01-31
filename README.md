@@ -106,3 +106,7 @@ Feel free to fork this repository, open issues, or submit pull requests. Contrib
 
 ---
 
+📜 License
+This project is licensed under the MIT License.
+
+
